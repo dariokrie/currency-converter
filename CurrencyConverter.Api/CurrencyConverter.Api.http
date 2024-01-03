@@ -1,0 +1,6 @@
+@CurrencyConverter.Api_HostAddress = http://localhost:5055
+
+GET {{CurrencyConverter.Api_HostAddress}}/currencyconverter/
+Accept: application/json
+
+###
