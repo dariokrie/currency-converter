@@ -16,12 +16,14 @@
 		-> profiles which automapper requires
 		
 20 Domain
+- CurrencyConverter.Domain
 	- Models
 		-> each entity designed as a domain model
 	- Services
 		-> business logic
 		
 30 Data
+- CurrencyConverter.Data
 	- Entities
 		-> database entities which are created with help of entity framework core
 	- Repositories
